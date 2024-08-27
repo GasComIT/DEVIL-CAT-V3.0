@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Anime-King01" target="_blank">𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/gascomit" target="_blank">𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝕯𝖊𝖛𝖎𝖑+𝕮𝖆𝖙+𝓥3+;WHATSAPP+BUG+BOT;DEVELOPED+BY+𝕷𝖔𝖗𝖉+𝕹𝖔+𝕹𝖆𝖒𝖊+;REALESE+DATE+14%2F7%2F2024." alt="Typing SVG" /></a>
@@ -198,8 +198,8 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2348133286181"><img src="https://img.shields.io/badge/Contact 𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254718241545"><img src="https://img.shields.io/badge/Contact Mugwe Jnr-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VagLDl6BFLgUIWV9aV2d"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    
 <a href='https://chat.whatsapp.com/BA2rpI3Bo2S21YKsJOODE3' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 
